@@ -1,0 +1,22 @@
+{
+  "name": "light-strike",
+  "version": "1.0.0",
+  "description": "lightning strike counter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tbrlee/ReactLightStrike.git"
+  },
+  "author": "Brian Lee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tbrlee/ReactLightStrike/issues"
+  },
+  "homepage": "https://github.com/tbrlee/ReactLightStrike#readme",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
